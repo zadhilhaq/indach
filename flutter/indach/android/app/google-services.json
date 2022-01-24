@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991274435939",
+    "project_id": "indach-e7a1a",
+    "storage_bucket": "indach-e7a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991274435939:android:a04f58e87efff214ddff56",
+        "android_client_info": {
+          "package_name": "com.example.indach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991274435939-69i00u2rq2f45clnig7n3lfq89bqgjh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyTAq3-UUUG8_Jun9ekEfHD0vvZlJq60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991274435939-69i00u2rq2f45clnig7n3lfq89bqgjh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
