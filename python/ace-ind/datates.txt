@@ -1,0 +1,1300 @@
+Lari!	Plueng!
+Siapa?	Soe?
+Wow!	Wow!
+Tolong!	Tulông!
+Lompat!	Grôp!
+Loncat.	Grôp.
+Berhenti!	Hôp!
+Tunggu!	Prèh!
+Tunggu.	Prèh.
+Cepatlah!	Bagahlah!
+Cepat!	Bagah!
+Buruan!	Beubagah!
+Begitu rupanya.	Meunan rupajih.
+Senyum.	Senyum.
+Bangunlah.	Beudöhlah.
+Saya mengerti!	Lôn meuphom!
+Mengerti?	Meuphom?
+Dengar.	Deungo.
+Tak bisa!	Han jeut!
+Tidak mungkin!	Hana mungken!
+Terima kasih.	Teurimeng geunaseh.
+Makasih.	makasih.
+Kami mencoba.	Kamoe meucuba.
+Kenapa harus saya?	Pakön harus lôn?
+Ayo!	Yak!
+Keluar!	Tubiet!
+Tahan!	Theun!
+Saya setuju.	Lôn seutuju.
+Saya sedih.	Lôn seudéh.
+Tidak apa-apa.	Hana peu-peu.
+Ini saya!	Nyoe lôn!
+Ini saya.	Nyoe lôn.
+Saya juga.	Lôn pih.
+Sempurna!	Sempurna!
+Perlihatkan pada saya.	Peudeuh bak lôn.
+Perlihatin.	Peudeuh.
+Diam!	Iem!
+Diamlah!	Ka iem!
+Ahmad menang.	Ahmad meunang.
+Bangun!	Beudöh!
+Bangunlah!	Beudöhlah!
+Bangunlah.	Beudöhlah.
+Jangan bergerak.	bèk meugrak.
+Kerja yang bagus!	keureuja beu göt!
+Kerja bagus!	keureuja göt!
+Tangkap Ahmad.	Drop Ahmad.
+Hai, kawan-kawan.	Hai, rakan-rakan.
+Saya gagal.	Lôn gagal.
+Saya mengerti.	Lôn meuphom.
+Saya mengerti.	Lôn meuphom.
+Saya menolak.	Lôn tulak.
+Saya tetap tinggal.	Lôn tetap tinggai.
+Saya baik-baik saja.	Lôn get-get mantöng.
+Itu aneh.	Nyan aneh.
+Ini aneh.	Nyoe aneh.
+Awas!	Minah!
+Duduklah!	Duek!
+Duduklah.	Duek.
+Berdiri!	Döng!
+Berdirilah.	Ka döng.
+Hebat!	Hayeue!
+Mereka menang.	Awak nyan meunang.
+Percaya saya.	Pateh lôn.
+Kami sudah mencoba.	Kamoe kaleuh meucuba.
+Untuk apa?	Keu peu?
+Dia siapa?	Jih soe?
+Duduklah.	Duek.
+Tenanglah.	Teunang.
+Tenanglah.	Teunang.
+Kemari.	Keunoe.
+Datanglah segera.	Jak laju sigra.
+Tenanglah.	Teunang.
+Jangan menangis.	Bèk moe.
+Jangan mati.	Bèk maté.
+Dia adalah seorang DJ.	Jih adalah sidroe DJ.
+Saya bisa bermain ski.	Lôn jeut meuen ski.
+Saya memukul Ahmad.	Lôn poh Ahmad.
+Saya serius!	Lôn serius!
+Saya serius.	Lôn serius.
+Saya janji.	Lôn janji.
+Saya laki-laki.	Lôn agam.
+Saya bosan.	Lôn bosan.
+Saya bosan.	Lôn bosan.
+Saya mabuk.	Lôn mabôk.
+Saya yang pertama.	Lôn yang keuphôn.
+Saya telanjang.	Lôn lhôn.
+Saya lelah.	Lôn hèk.
+Dingin.	Leupie.
+Ini adalah makanan.	Nyoe adalah makanan.
+Mari kita coba!	Yak tanyoe cuba!
+Mari kita coba.	Yak tanyoe cuba.
+Tentu saja!	Teuntè mantöng!
+Harap tenang!	Harap teunang!
+Lihat di bawah ini.	Kalön di miyup nyoe.
+Beneran?	Butoy?
+Terima kasih.	Teurimeng geunaseh.
+Terus kenapa?	Man paken?
+Ahmad menangis.	Ahmad moe.
+Coba lagi.	Aci lom.
+Belok kiri.	Wét u wie.
+Awas!	Minah!
+Kerja yang bagus!	Buet yang gét!
+Kerja bagus!	Buet gét!
+Ada apa?	Peu na?
+Dia siapa?	Jih soe?
+Ahmad itu siapa?	Ahmad nyan soe?
+Luar biasa!	Luar biasa!
+Kamu tidak apa-apa?	Kah hana pu-pu?
+Hati-hati!	Beuleuheun!
+Hati-hati.	Beuleuheun.
+Sudah hentikan!	Kasép kajeut!
+Sudah hentikan.	Kasép kajeut.
+Jangan bergerak!	Bèk meugrak!
+Jangan bergerak.	Bèk meugrak.
+Jangan berbicara!	Bèk peugah aba!
+Makan pelan-pelan.	Pajoh bacut-bacut.
+Ikuti dia.	seutét jih.
+Lupakan dirinya.	Bèk ingat le jih.
+Dia adalah seorang DJ.	Jih adalah sidroe DJ.
+Dia pintar.	Jih caröng.
+Halo, Ahmad!	Halo, Ahmad!
+Membosankan sekali!	Membosankan that!
+Saya laki-laki.	Lôn Agam.
+Saya baru makan.	Lôn barô pajôh.
+Saya suka dia.	Lôn galak jih.
+Saya cinta kamu.	Lôn cinta kah.
+Saya mencintaimu.	Lôn cinta keu kah.
+Saya merindukanmu.	Lôn rindu keu kah.
+Saya rindu kamu.	Lôn rindu kah.
+Saya lapar!	Lôn deuek!
+Saya lapar.	Lôn deuek.
+Saya lapar.	Lôn deuek.
+Saya bercanda.	Lôn meuseunda.
+Saya sangat capek.	Lôn that hèk.
+Saya ngantuk!	Lôn teungeut!
+Saya ngantuk.	Lôn teungeut.
+Apa Ahmad sakit?	Peu Ahmad saket?
+Apakah ini cinta?	Peukeuh nyoe cinta?
+Apa itu benar?	Peu nyan butoi?
+Apa benar begitu?	Peu butoi lage nyan?
+Itu akan terbakar.	Nyan akan teutet
+Sekarang malam.	Inoe malam.
+Itu aneh.	Nyan aneh.
+Ini aneh.	Nyoe aneh
+Coba saya lihat.	Cuba lôn kalön.
+Lihat saya.	Kalön lôn.
+Beneran?	Yang butoi?
+Tidak masalah!	Hana masalah!
+Tidak masalah.	Hana masalah.
+Oh, benarkah?	Oh, yang butoi?
+Silakan duduk.	Silahkan duek.
+Cepatlah!	Bagahlah!
+Cepat!	Bagah!
+Itu aneh.	Nyan aneh.
+Ahmad melakukannya.	Ahmad peubuet nyan.
+Ahmad dalam keadaan baik.	Ahmad dalam keadaan get.
+Ahmad di rumah.	Ahmad di rumoh.
+Belok kanan.	Wét u neun.
+Apakah dia Ahmad?	Peukeuh jih Ahmad?
+Ahmad itu siapa?	Ahmad nyan soe?
+Apa kamu melakukan khitan?	Peu kah ka sunat?
+Kamu orang baru?	Kah ureung barô?
+Kamu masih belum mengerti?	Kah mantöng golom meuphom?
+Apa kamu bermain boling?	Peu kah meuen boling?
+Jangan khawatir.	Bèk khawatir.
+Pergilah tidur.	Kajak éh.
+Duduklah.	Kaduek.
+Duduklah.	Neuduek.
+Dia memiliki anggur.	Jih na anggor.
+Dia sendirian.	Jih sidroe.
+Dia delapan tahun.	Jih lapan thôn.
+Apa kabar?	Peu haba?
+Bagaimana kabar Kamu?	Kiban haba Droeneuh?
+Saya juga pergi.	Lôn pih jak.
+Saya merasa bodoh.	Lôn merasa bangai.
+Saya lelah.	Lôn hèk.
+Saya suka biru.	Lôn galak biru.
+Saya suka kucing.	Lôn galak miè.
+Saya suka ini.	Lôn galak nyoe.
+Saya perlu uang.	Lôn perlè pèng.
+Saya berterima kasih.	Lôn meuteurimeng geunaseh.
+Saya mempercayainya.	Lôn patéh.
+Saya mau punya saya.	Lôn ék ata lôn.
+Saya lelah.	Lôn hèk.
+Saya juga pergi.	Lôn pih jak.
+Saya bercanda.	Lôn meuseunda.
+Saya tidak malu.	Lôn hana malee.
+Saya serius.	Lôn serius.
+Saya kelaparan.	Lôn deuek.
+Saya haus.	Lôn grah.
+Saya terlalu gemuk.	Lôn that tumb01n.
+Saya sudah gagal.	Lôn ka gagal.
+Apa Ahmad sakit?	Peu Ahmad saket?
+Apa Ahmad sehat?	Peu Ahmad sehat?
+Tidak mungkin!	Hana mungken!
+Mungkin akan turun hujan.	Mungken akan i trén ujeuen.
+Itu palsu.	Nyan palsu.
+Bercanda.	Meuseunda.
+Mari kita lakukan!	Yak tanyoe peubuet!
+Mari kita lakukan.	Yak tanyoe peubuet.
+Lihatlah ke arah Ahmad.	Kalön keuh u arah Ahmad.
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Tolong berhenti!	Tulông deng!
+Tolong berhenti.	Tulông deng.
+Ucapkan selamat tinggal.	Kheun seulamat tinggai.
+Diam di situ!	Iem i nan.
+Duduklah.	Neuduek.
+Begitulah hidup.	Meunanlah udép.
+Ini Ahmad.	Nyoe Ahmad.
+Ini besar.	Nyoe rayék.
+Ini aneh.	Nyoe aneh.
+Ahmad pingsan.	Ahmad pansan.
+Ahmad adalah seorang yang kasar.	Ahmad adalah sidroe yang gasa.
+Nyalakan CNN.	Peuudep CNN.
+Kami membantu Ahmad.	Kamoe meubantu Ahmad.
+Kami mengenalnya.	Kamoe turijih.
+Kita akan bertarung.	Tanyoe akan meutarông.
+Membosankan sekali!	Membosankan that!
+Sayang sekali!	Sayang that!
+Itu apa?	Nyan peu?
+Ini apa?	Nyoe peu?
+Siapa yang menggambar itu?	Soe yang gamba nyan?
+Itu punya siapa?	Nyan ata soe?
+Kamu kurus.	Kah pijuet.
+Apakah kamu yakin?	Peukeuh kah yakin?
+Apa kamu yakin?	Peu kah yakin?
+Hentikan itu!	Kasép nyan!
+Jangan tanya saya.	Bèk tanyöng lôn.
+Jangan pergi dulu.	Bèk jak dilè.
+Jangan mempermainkan saya!	Bèk kapeumeuen lôn!
+Mengerikan sekali!	Ngeri that!
+Saya tidak peduli.	Lôn hana peduli.
+Saya tidak tahu.	Lôn hana teupeu.
+Saya merasa capek.	Lôn merasa hèk.
+Saya harus belajar.	Lôn harus belajar.
+Saya mengerti.	Lôn meuphom.
+Saya ingin pergi.	Lôn neu yak jak.
+Saya sangat lapar.	Lôn that deuek.
+Saya tidak dungu.	Lôn hana bangai.
+Saya tidak yakin.	Lôn hana yakin.
+Saya sangat menyesal.	Lôn that menyesal.
+Saya kelaparan.	Lôn deuek.
+Saya yang terbaik.	Lôn yang paleng get.
+Apa itu benar?	Peu nyan butoi?
+Apa ini benar?	Peu nyoe butoi?
+Apakah ini benar?	Peukeuh nyoe butoi?
+Itu bohong.	Nyan peungeut.
+Tadi itu jelas.	Bunoe nyan jelaih.
+Ini kapal saya.	Nyoe kapai lôn.
+Sedang turun hujan.	Tingeh i trén ujeuen.
+Itu aneh.	Nyan aneh.
+Ini aneh.	Nyoe aneh.
+Sudah hentikan.	Kasép kajeut.
+Mari kita mencobanya.	Yak tanyoe cuba nyan.
+Cepatlah!	Bagahlah!
+Bebaskan Ahmad.	Peulheuh Ahmad.
+Dia delapan tahun.	Jih lapan thôn.
+Perlihatkan itu pada saya.	Peudeuh nyan bak lôn.
+Mimpi indah!	Meulumpoe indah!
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Itu bagus!	Nyan gét!
+Tepat sekali!	Teupat that!
+Itu aneh.	Nyan aneh.
+ini gampang.	nyoe gampang.
+Ini adalah makanan.	Nyoe adalah makanan.
+Ahmad benci saya.	Ahmad beunci Lôn.
+Ahmad memaksa.	Ahmad paksa.
+Ahmad tidak tenang.	Ahmad hana teunang.
+Ahmad melihat mereka.	Ahmad kalön awak nyan.
+Ahmad berbicara dengan gagap.	Ahmad peugah aba ngön gagap.
+Ahmad dalam keadaan baik.	Ahmad dalam keadaan get.
+Ahmad dalam keadaan baik.	Ahmad dalam keadaan get.
+Ahmad itu ramah.	Ahmad nyan ramah.
+Ahmad itu keras.	Ahmad nyan kreuh.
+Cobalah berenang!	Aci meulangoe.
+Kami mohon maaf.	Kamoe lake meuah.
+Kami akan memperbaikinya.	Kamoe akan meupeugét nyan.
+Kami sedang mencoba.	Kamoe tingeh cuba.
+Ini apa?	Nyoe peu?
+Kamu bodoh.	Kah bangai.
+Kamu muda.	Kah muda.
+Ada pertanyaan?	Na pertanyaan?
+Ada lagi?	Na lom?
+Apa kamu senang?	Peu kah senang?
+Apa Kamu bahagia?	Peu kah bahgia?
+Kamu capek?	Kah hèk?
+Apa kamu melihatnya?	Peu na kah kalön?
+Jangan pergi.	Bèk jak.
+Jangan mengejek saya.	Bèk ka nyèt-nyèt lôn.
+Beri makan burungnya!	Jôk umpeun cicem nyan!
+Beri makan burungnya.	Jôk umpeun cicem nyan.
+Kemari.	Keunoe.
+Ambil perlengkapanmu.	Cok perlengkapan kah.
+Berikan pada saya.	Jôk keu  lôn.
+Dia nampaknya sedang sakit.	Jih bakdeuh tingeh saket.
+Dia menembak ke arah saya.	Jih tembak u arah lôn.
+Pegang tali itu.	Mat taloe nyan.
+Apa kabar?	Peu haba?
+Bagaimana kabar Kamu?	Kiban haba Droeneuh?
+Saya bisa melihat Ahmad.	Lôn jeut kalön Ahmad.
+Saya sudah lapar.	Lôn ka deuk.
+Saya punya tempat tinggal.	Lôn na teumpat tinggai.
+Saya punya saudara kembar.	Lôn na saudara keumbeu.
+Saya sudah gagal.	Lôn ka gagal.
+Saya tidak bercanda.	Lôn hana meuseunda.
+Saya harus menolak.	Lôn harus tulak.
+Saya harus melihatnya.	Lôn payah kalön.
+Saya menipumu.	Lôn peungeut kah.
+Saya menggunakan Twitter.	Lôn pakek twitter.
+Saya ingin mati.	Lôn neu yak mate.
+Saya masuk ke dalam.	Lôn taméng u dalam.
+Saya tidak buta.	Lôn hana buta.
+Saya puas.	Lôn puas.
+Saya sangat lapar.	Lôn that deuek.
+Apa sedang hujan?	Peu tingeh ujeuen?
+Apa itu benar?	Peu nyan butoi?
+Apa itu salah?	Peu nyan salah?
+Sedang turun hujan.	Tingeh i trén ujeuen.
+Ini dijual.	Nyan dipubloe.
+Ini untuk dijual.	Nyan untuk dipubloe.
+Ada di lantai atas.	Na di lantai ateuh.
+Lepaskan Ahmad!	Peuleuh Ahmad!
+Lepaskan Ahmad.	Peuleuh Ahmad.
+Biarkan saya melihatnya.	Bah lôn kalön.
+Biarkan saya mencobanya.	Bah lôn cuba.
+Mari kita melakukannya.	Yak tanyoe peubuet nyan.
+Ayo kembali.	Yak Balek.
+Cinta itu gila.	Cinta nyan pungo.
+Tidak ada yang melihat kita.	Hana yang kalön tanyoe.
+Harap tenang.	Harap teunang.
+Perlihatkan itu pada saya.	Peudeuh nyan bak lôn.
+Berhentilah bermimpi.	Kasep meulumpoe.
+Tadi itu cepat.	Bunoe nyan bagah.
+Itu tadi enak.	Nyan bunoe mangat.
+Itu enak.	Nyan mangat.
+Itu palsu.	Nyan palsu.
+Bercanda.	Meuseunda.
+Itu cukup.	Nyan kasep.
+Ini pulpen.	Nyoe pulpen.
+Ini bodoh.	Nyoe bangai.
+Ini aneh.	Nyoe aneh.
+Ini enak.	Nyoe mangat.
+Waktu adalah uang.	Watèe adalah pèng.
+Ahmad menyalahkan kami.	Ahmad i peusalah kamoe.
+Ahmad kebal.	Ahmad keubai.
+Ahmad itu ramah.	Ahmad nyan ramah.
+Ahmad terlihat buruk.	Ahmad deuh brôk.
+Ahmad dipecat.	Ahmad dipeucat.
+Ahmad merasa bahagia.	Ahmad meurasa bahgia.
+Ahmad beruntung.	Ahmad beuruntông
+Kami membantu Ahmad.	Kamoe meubantu Ahmad.
+Kita akan bertarung.	Tanyoe akan meutarông.
+Kami berangkat.	Kamoe berangkat.
+Apa yang sudah saya lakukan?	Peu yang kaleuh lôn peubuet?
+Apa yang terjadi?	Peu yang terjadi?
+Apa itu UFO?	Peu nyan UFO?
+Yang mana punya saya?	Yang teh ata lôn?
+Kamu tidak apa-apa?	Kah hana pu-pu?
+Kamu ngantuk.	Kah teungeut.
+Kamu sudah tidur?	Kah kaleuh éh?
+Apa kamu lapar?	Peu kah deuek?
+Apa kamu bercanda?	Peu kah meuseunda?
+Bisa saya bantu?	Jeut lôn bantu?
+Kamu masih belum mengerti?	Kah mantöng golom meuphom?
+Perubahan itu bagus.	Perubahan nyan göt.
+Kembali ke rumah.	Balek u rumoh.
+Segeralah kembali.	Sigra balek.
+Apa kamu benci saya?	Peu kah beunci lôn?
+Jangan katakan itu!	Bèk ka peugah nyan!
+Jangan menggoda saya.	Bèk ka goda lôn.
+Apa kamu tidak tahu?	Peu kah hana teupeu?
+Turun dari kasur!	Trén dari kaso!
+Bangun dari tempat tidur!	Beudöh dari teumpat éh!
+Bangunlah dari tempat tidur.	Beudöhlah dari teumpat éh.
+Ambil perlengkapanmu.	Cok perlengkapan kah.
+Dia adalah seorang dokter.	Jih adalah sidroe dokter.
+Dia adalah seorang aktor.	Jih adalah sidroe aktor.
+Dia terlihat muda.	Jih deuh muda.
+Dia sempurna.	Jih sempurna.
+Sudah telat berapa lamakah?	Ka teulat padup trep ka?
+Sudah telat berapa lama?	Ka teulat padup trep?
+Berapa harganya?	Padup yum jih?
+Saya adalah seorang siswa.	Lôn adalah sidroe siswa.
+Saya ada di London.	Lôn na di london.
+Saya tidak suka telur.	Lôn hana galak bôh manok.
+Saya pergi ke sekolah.	Lôn jak u sikula.
+Saya demam.	Lôn demam.
+Saya punya rumah.	Lôn na rumoh.
+Saya tidak tahu sama sekali.	Lôn hana teupeu sama sekali.
+Saya tidak punya waktu.	Lôn hana wate.
+Saya harus menolak.	Lôn harus tulak.
+Saya butuh perangko.	Lôn perlè perangko.
+Saya butuh teman.	Lôn perlè ngön.
+Saya memakai kacamata.	Lôn pakek kacamata.
+Saya akan membutuhkan bantuan.	Lôn akan perlè bantuan.
+Saya bukan bayi.	Lôn ken bayi.
+Saya tidak bercanda.	Lôn hana meuseunda.
+Saya tidak sedang bercanda.	Lôn hana tingeh meuseunda.
+Saya tidak bodoh.	Lôn hana bangai.
+Saya sangat capek.	Lôn that hèk.
+Saya sudah pindah.	Lôn ka pinah.
+Itu pasti Ahmad.	Nyan pasti Ahmad.
+Tinggalkan saya sendiri!	Kubah lôn sidroe!
+Tinggalkan saya sendiri.	Kubah lôn sidroe.
+Berbohong adalah perbuatan yang salah.	Seumeungeut adalah perbuatan yang salah.
+Bangunlah.	Beudöhlah.
+Dia sedang lari.	Jih tingeh di plueng.
+Dia tampak sakit.	Jih bakdeuh saket.
+Dia jago renang.	Jih jago renang.
+Dia seorang yang cantik.	Jih sidroe yang lagak.
+Jadi mari kita lakukan.	Jadi yak tanyoe peubuet.
+Santai saja.	Santai mantöng.
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Itu tadi enak.	Nyan bunoe mangat.
+Itu bohong.	Nyan peungeut.
+Itu aneh.	Nyan aneh.
+Itu sianida.	Nyan sianida.
+Harusnya saya yang bilang begitu.	Harusjih lôn yang peugah lage nyan.
+Itu aneh.	Nyan aneh.
+Anehnya.	Anehjih.
+Sayang sekali.	Sayang that.
+Bercanda.	Meuseunda.
+Ini sangat menyedihkan.	Nyoe that seudéh.
+Ini tidak menyenangkan.	Nyoe hana seunang.
+Ahmad tidak bisa berenang.	Ahmad han jeut meulangoe.
+Ahmad mengabaikan saya.	Ahmad hana dipeureumeun lôn.
+Ahmad ada di rumah.	Ahmad na di rumôh.
+Ahmad gelisah.	Ahmad gelisah.
+Ahmad gugup.	Ahmad gugôp.
+Ahmad tidak lemah.	Ahmad hana leumöh.
+Ahmad pingsan.	Ahmad pansan.
+Ahmad menangis.	Ahmad moe.
+Ahmad tidak lemah.	Ahmad hana leumöh.
+Kami membuat sebuah kesepakatan.	Kamoe meupeugöt saboh mufakat.
+Kami akan senang.	Kamoe akan seunang.
+Kami bisa dipercaya.	Kamoe jeut di patéh.
+Kami seorang yang mudah bergaul.	Kamoe sidroe yang mudah meugaul.
+Bagaimana kalau saya gagal?	Kiban menye lôn gagal?
+Apa susahnya, sih?	Peu susah jih?
+Tadi kamu di mana?	Bunoe kah pat?
+Kamu di mana?	Kah pat?
+Boston itu di mana?	Boston nyan pat?
+Mobil saya mana?	Moto lôn töh?
+Itu punya siapa?	Nyan ata soe?
+Kamu harus pergi.	Kah harus jak.
+Apa ini milikmu?	Peu nyoe ata kah?
+Apa kita masih belum selesai?	Peu tanyoe mantöng golom leuh?
+Apakah kamu yakin?	Peukeuh kah yakin?
+Apa kamu yakin?	Peu kah yakin?
+Apa kamu bercanda?	Peu kah meuseunda?
+Apa kamu serius?	Peu kah serius?
+Boleh saya mengajak Ahmad?	Jeut lôn pakat ahmad?
+Apa bisa dibetulkan?	Peu jeut dipeugöt?
+Tutup pintu itu.	Tôp pintô nyan.
+Selamat!	Seulamat!
+Apa kamu punya satu?	Peu kah na saboh?
+Apa kamu melihatnya?	Peu na kah kalön?
+Apa kamu melihat ini?	Peu na kah kalön nyoe?
+Jangan takut.	Bèk yee?
+Jangan takut.	Bèk yee?
+Jangan ganggu saya.	Bèk peukaru lôn.
+Jangan marah.	Bèk bungeh.
+Jangan mabuk!	Bèk mabôk!
+Ambil barang-barangmu.	Cok barang-barang kah.
+Ambil barangmu!	Cok barang kah!
+Dia punya dua kucing.	Jih na dua miè.
+Dia suka macan.	Jih galak macan.
+Dia kakak laki-laki saya.	Jih abang lôn.
+Dia kakak saya.	Jih kakak lôn.
+Dia adik saya.	Jih adek lôn.
+Dia masih belum ada.	Jih mantöng golom na.
+Hai! Bagaimana kabarmu?	Hai! Kiban haba kah?
+Hai! Apa kabar?	Hai! Peu haba?
+Hai. Bagaimana kabarmu?	Hai. Kiban haba kah?
+Namanya Ahmad.	Nan jih Ahmad.
+Tolong tunggu sebentar.	Tulông prèh siat.
+Apa kabar?	Peu haba?
+Saya sepenuhnya setuju.	Lôn sepunoh jih seutuju.
+Saya sangat capek.	Lôn that hèk.
+Saya mengerti.	Lôn meuphom.
+Saya tidak melihat Ahmad.	Lôn hana kalön Ahmad.
+Saya mengerti maksudmu.	Lôn meuphom maksud kah.
+Saya harus belajar.	Lôn harus belajar.
+Saya punya dua ekor kucing.	Lôn na dua neuk miè.
+Saya belum tidur.	Lôn golom éh.
+Saya tahu perempuan itu.	Lôn teupeu inöng nyan.
+Saya suka mobilmu.	Lôn galak moto kah.
+Saya suka terung.	Lôn galak boh trueng.
+Saya sepenuhnya setuju.	Lôn sepunoh jih seutuju.
+Saya akan di rumah.	Lôn akan di rumôh.
+Saya hampir selesai.	Lôn karap leuh.
+Saya akan pergi.	Lôn akan jak.
+Saya cuma bercanda.	Lôn cuma meuseunda.
+Saya tidak bercanda.	Lôn hana meuseunda.
+Saya tidak sedang bercanda.	Lôn hana tingeh meuseunda.
+Saya tidak akan pergi.	Lôn han akan jak.
+Saya cuma bercanda.	Lôn cuma meuseunda.
+Saya sangat lapar.	Lôn that deuek.
+Saya temanmu.	Lôn ngön kah.
+Itu penting?	Nyan peunteng?
+Apa ini benar?	Peu nyoe butoi?
+Apakah ini benar?	Peukeuh nyoe butoi?
+Terserah padamu.	Terserah bak kah.
+Ini tidak cukup.	Nyoe hana sep.
+Itu tidak cukup.	Nyan hana sep.
+Kelihatannya itu murah.	Bak deuh nyan murah.
+Ini tidak lucu.	Nyoe hana lucu.
+Tidak masalah.	Hana masalah.
+Ini bukan lelucon.	Nyoe ken lelucon.
+Ini tidak rusak.	Nyan hana reulöh.
+Ini tidak cukup.	Nyoe hana sep.
+Itu tidak cukup.	Nyan hana sep.
+Biarkan saya melihatnya.	Bah lôn kalön.
+Ayo kembali.	Yak Balek.
+Ayo kembali.	Yak Balek.
+Kesalahan bisa terjadi.	Kesalahan jeut terjadi.
+Mama, saya lapar.	Mak, lôn deuek.
+Rumah saya besar.	Rumôh lôn rayék.
+Jangan lupakan itu!	Bèk tuwe nyan!
+Jangan pernah berbohong.	Bèk tom seumeungeut.
+Tolong betulkan itu.	Tulông peugöt nyan.
+Tolong betulkan ini.	Tulông peugöt nyoe.
+Silakan duduk.	Silahkan duek.
+Baca ini dulu.	Baca nyoe dilè.
+Dia seorang yang cantik.	Jih sidroe yang lagak.
+Dia cantik.	Jih lagak.
+Terima kasih untuk ini.	Teurimeng geunaseh untuk nyoe.
+Itu tidak adil.	Nyan hana ade.
+Itu aneh.	Nyan aneh.
+Buku itu berwarna merah.	Buku nyan meuwarna mirah.
+Ruangannya panas.	Ruangan nyan suum.
+Mereka takut padamu.	Awak nyan yee keu kah.
+Mereka pulang lebih awal.	Awak nyan woe lubeh bagah.
+Mereka pergi lebih awal.	Awak nyan jak lubeh bagah.
+Ini aneh.	Nyoe aneh.
+Ini adalah kamar saya.	Nyoe adalah kama lôn.
+ini istri saya.	Nyoe inöng lôn.
+Ini alami.	Nyoe alami.
+Ini bukan lelucon.	Nyoe ken lelucon.
+Ini dijual.	Nyan dipubloe.
+Ini aneh.	Nyoe aneh.
+Ahmad sangat mencintai dan menyayangi Nisa.	
+Ahmad pingsan.	Ahmad pansan.
+Ahmad sedang di rumah sekarang.	Ahmad tingöh di rumôh inoe.
+Ahmad adalah teman saya.	Ahmad adalah ngön lôn.
+Ahmad sangat tua.	Ahmad that tuha.
+Ahmad tidak senang.	Ahmad hana senang.
+Ahmad berbohong padamu.	Ahmad di seumeungeut kah.
+Ahmad terlihat sedih.	Ahmad deuh seudéh.
+Ahmad butuh taksi.	Ahmad perlè taksi.
+Ahmad butuh air.	Ahmad perlè ie.
+Ahmad berhenti sekolah.	Ahmad piyôh sikula.
+Ahmad sedang bernyanyi tadi.	Ahmad tingöh di meulagu bunoe.
+Ahmad itu berbahaya.	Ahmad nyan bahaya.
+Ahmad itu teman saya.	Ahmad nyan ngön lôn.
+Kami melakukan yang terbaik.	Kamoe peubuet yang paleng get.
+Kami tidak pernah lupa.	Kamoe hana tom tuwe.
+Kami tidak pernah lupa.	Kamoe hana tom tuwe.
+Ada apa?	Peu na?
+Apa yang terjadi?	Peu yang terjadi?
+Kalian punya apa?	Awakkah na peu?
+Kalian dapat apa?	Awakkah meureumpök peu?
+Kapan kita bisa makan?	Pajan tanyoe jeut pajoh?
+Dia pergi ke mana?	Jih i jak ho?
+Ke mana perginya?	Ho i jak?
+Mobil saya mana?	Moto lôn töh?
+Di mana mereka?	Pat awak nyan?
+Di mana mereka?	Pat awak nyan?
+Siapa anak itu?	Soe aneuk nyan?
+Mengapa kamu bertanya?	Pakön kah tanyöng?
+Kenapa dia ada di sini?	Pakön jih na i noe?
+Kamu tidak mendengar.	Kah hana kadeungö.
+Kamu membuat saya kecewa.	Kah meupeugöt lôn keucewa.
+Kamu mengecewakan saya.	Kah kapeu keucewa lôn.
+Waktumu sudah habis.	Watèe kah ka abeh.
+Siapapun bisa melakukannya.	Beurangkasoe jeut peubuet nyan.
+Apakah kita siap?	Peukeuh tanyoe siap?
+Apa kamu serius?	Peu kah serius?
+Kamu sedang tidur?	Kah tingöh éh?
+Kendalikan dirimu!	Kendalikan droe!
+Kendalikan dirimu.	Kendalikan droe.
+Ahmad pergi sendiri?	Ahmad i jak sidroe?
+Dia tadi bilang begitu?	Jih bunoe peugah lage nyan?
+Apa kamu senang?	Peu kah senang?
+Apakah kamu sering menangis?	Peukeuh kah sereng moe?
+Apa kamu merasa sakit?	Peu kah meurasa saket?
+Apakah kamu tinggal di sini?	Peukeuh kah tinggai i noe?
+Tidak apa-apa.	Hana peu-peu.
+Apa kamu tidak mengerti?	Peu kah hana meuphom?
+Cukup cukup.	Kasep kasep.
+Dia bisa berenang dengan cepat.	Jih jeut meulangoe ngön bagah.
+Dia punya sedikit gigi.	Jih na bacut igoe.
+Dia memiliki sebuah sepeda.	Jih na saboh sitangèn.
+Dia dalam masalah.	Jih lam masalah.
+Dia adalah adik saya.	Jih adalah adek lôn.
+Dia adalah kakak saya.	Jih adalah kakak lôn.
+Dia masih di sini.	Jih mantöng i noe.
+Dia baru saja pergi.	Jih ban mantöng i jak.
+Dia mengambil pinjaman uang.	Jih i cok pinjaman pèng.
+Dia dinyatakan tidak bersalah.	Jih dinyatakan hana meusalah.
+Dia pintar.	Jih caröng.
+Dia masih muda.	Jih mantöng muda.
+Tunggu sebentar.	Prèh siat.
+Bagaimana saya bisa mengetahuinya?	Kiban lôn jeut teupeu nyan?
+Bagaimana kelihatannya?	Kiban bak deuh jih?
+Bagaimana cara kerjanya?	Kiban cara kereuja jih?
+Bagaimana saya bisa mengetahuinya?	Kiban lôn jeut teupeu nyan?
+Apa kabar?	Peu haba?
+Saya setuju denganmu.	Lôn seutuju ngön kah.
+Saya juga suka kue.	Lôn pih galak kueh.
+Saya tidak bercanda.	Lôn hana meuseunda.
+Saya tidak sedang bercanda.	Lôn hana tingeh meuseunda.
+Saya cuma bercanda.	Lôn cuma meuseunda.
+Saya sangat lapar.	Lôn that deuek.
+Saya percaya padamu.	Lôn patéh keu kah.
+Saya datang kemarin.	Lôn trôh baroe.
+Saya tidak bisa mengatakan itu.	Lôn han jeut peugah nyan.
+Saya terkena flu.	Lôn keunöng flu.
+Saya rasa tidak.	Lôn rasa hana.
+Kuncinya ketemu.	Kunci jih meureumpek.
+Saya kena flu berat.	Lôn keunöng flu brat.
+Saya harap saya akan bertahan hidup.	Lôn harap lôn akan bertahan udép.
+Saya hanya tahu ini.	Lôn cuma teupeu nyoe.
+Saya tahu namamu.	Lôn teupeu nan kah.
+Saya suka coklat.	Lôn galak coklat.
+Saya suka mawar merah.	Lôn galak warna mirah.
+Saya suka rambutmu.	Lôn galak ôk kah.
+Saya suka coklat.	Lôn galak coklat.
+Saya sangat suka lagu ini.	Lôn that galak lagu nyoe.
+Saya sangat suka rambutmu.	Lôn that galak ôk kah.
+Saya membuatnya sendiri.	Lôn peugöt keudroe.
+Saya harus pergi sekarang.	Lôn harus jak inoe.
+Saya membaca labelnya.	Lôn baca label jih.
+Saya ingin melihatnya.	Lôn hawa kalön nyan.
+Saya ingin kamu pergi.	Lôn hawa kah jak.
+Saya ketakutan.	Lôn yee.
+Saya dengan Ahmad.	Lôn ngön Ahmad.
+Saya akan pergi denganmu.	Lôn akan jak ngön kah.
+Saya akan mengambil mobil saya.	Lôn akan cok moto lôn.
+Saya berusia 18 tahun.	Lôn meu umu 18 thôn.
+Saya supir Ahmad.	Lôn super Ahmad.
+Saya seorang penata buku.	Lôn sidroe penata buku.
+Saya kecanduan alkohol.	Lôn kecanduan alkohol.
+Saya kecewa.	Lôn keucewa.
+Saya sudah selesai bekerja.	Lôn ka seuleusoe keureuja.
+Saya cuma bercanda.	Lôn cuma meuseunda.
+Saya bukan dokter.	Lôn kön dokter.
+Saya bukan idiot.	Lôn kön idiot.
+Saya bangga padamu.	Lôn bangga keu kah.
+Saya sangat capek.	Lôn that hèk.
+Saya masih ngantuk.	Lôn mantöng teungeut.
+Saya sangat lapar.	Lôn that deuek.
+Saya demam.	Lôn demam.
+Apakah itu mobilmu?	Peukeuh nyan moto kah?
+Apakah ini tepat?	Peukeuh nyoe teupat?
+Ini kota yang bagus.	Nyoe kota yang göt.
+Ini bukan tipuan.	Nyoe kön peungeut.
+Itu ada di atas sofa.	Nyan na di ateuh sofa.
+Ayo masuk kembali ke dalam.	Yak tamöng balek u dalam.
+Mari kita coba.	Yak tanyoe cuba.
+Ayo lari.	Yak plueng.
+Dengarkan baik-baik.	Deungö beu göt-göt.
+Nisa adalah seorang yang anggun.	Nisa adalah sidroe yang anggun.
+Denyut nadi saya cepat.	Denyut nadi lôn bagah.
+Perut saya sakit.	Pruet lôn saket.
+Tidak ada yang bertanya padamu.	Hana yang tanyöng bak kah.
+Tidak ada orang yang sempurna.	Hana yang sempurna.
+Tidak ada yang bertanya padamu.	Hana yang tanyöng bak kah.
+Tidak ada yang harus tahu.	Hana yang harus teupeu.
+Tidak ada orang yang sempurna.	Hana ureung yang sempurna.
+Tak ada yang terjadi.	Hana yang terjadi.
+Silakan duduk.	Silahkan duek.
+Jangan menangis. Bèk moe.	
+Pakai jasmu.	Pakek jas kah.
+Mau pulang?	Neu jak woe?
+Dia memiliki rambut yang kering.	Jih na ôk yang thô.
+Dia seorang siswa.	Jih sidroe siswa.
+Dia cantik.	Jih lagak.
+Dia marah pada saya.	Jih bungeh keu lôn.
+Dia tidak muda.	Jih hana muda.
+Dia menolong saya.	Jih tulông lôn.
+Silakan duduk.	Silahkan duek.
+Tolong duduklah.	Tulông duek lah.
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Itu luar biasa.	Nyan luar biasa.
+Tolong bonnya.	Tulông bon jih.
+Kotak itu kosong.	Kotak nyan soh.
+Tidak ada bukti.	Hana bukti.
+Mereka berdua setuju.	Awak nyan mandua seutuju.
+Mereka menang.	Awak nyan meunang.
+Ahmad menjadi buta.	Ahmad jeut buta.
+Kaki Ahmad terluka.	Gaki Ahmad luka.
+Ahmad adalah seorang siswa.	
+Ahmad itu ramah.	Ahmad nyan ramah.
+Ahmad itu santai.	Ahmad nyan santai
+Ahmad adalah teman saya.	Ahmad adalah ngön lôn.
+Ahmad tidak terkenal.	Ahmad hana terkenal.
+Ahmad kehilangan topinya.	Ahmad gadöh topi jih.
+Ahmad kehilangan pekerjaannya.	Ahmad gadöh keureuja jih.
+Ahmad akan berkembang.	Ahmad akan berkembang.
+Belok ke kiri.	Wét u wie.
+Berjalanlah di depan saya.	Jak i keu lôn.
+Kali ini kita menang.	Kali nyoe tanyoe meunang.
+Kita akan diselamatkan.	Tanyoe akan diselamatkan.
+Kami bukan perokok.	Kamoe kön awak meurukok.
+Apa yang bisa saya katakan?	Peu yang jeut lôn peugah?
+Apa yang kamu beli?	Peu yang jeut lôn bloe?
+Beli apa?	Bloe peu?
+Apa yang kamu makan?	Peu yang kah pajoh?
+Kalian punya apa?	Awakkah na peu?
+Kamu punya apa?	Kah na peu?
+Apa maumu?	Peu kah hawa?
+Apa yang kamu inginkan?	Peu yang kah hawa?
+Apa yang Kamu inginkan?	Peu yang kah hawa?
+Apa yang dikatakannya?	Peu yang dipeugah le jih?
+Apa yang sudah kulakukan?	Peu yang kaleuh lôn peubuet.
+Ada apa?	Peu na?
+Apa yang membuatmu terbangun?	Peu yang peugöt kah jaga?
+Kamu mau yang mana?	Kah hawa yang töh?
+Siapa namamu?	Soe nan kah?
+Ke mana kamu pergi?	Ho kah jak?
+Di mana Bea dan Cukai?	Pat Bea dan Cukai?
+Ke mana kita akan pergi?	Ho tanyoe neuk jak?
+Di mana pintu keluarnya?	Pat pintô tubiet jih?
+Rencana siapakah ini?	Rencana soe nyoe?
+Kenapa kamu berhenti?	Pakön kah döng?
+Mengapa saya harus membayar?	Pakön lôn harus bayeu?
+Apa kamu mau mengambil risiko?	Peu kah tem cok resiko?
+Kamu tidak mendengar.	Kah hana deungö.
+Mungkin kamu benar.	Mungken kah butoi.
+Kamu boleh pergi ke sana.	Kah jeut jak keunan.
+Kamu butuh terapi.	Kah perlè terapi.
+Kamu harus tidur.	Kah harus éh.
+Mukamu merah.	Muka kah mirah.
+Apa kalian semua sudah siap?	Peu awakkah mandum ka siap?
+Kamu tidak apa-apa?	Kah hana pu-pu?
+Apakah mereka memecatmu?	Peukeuh awaknyan peucat kah?
+Apa kamu punya pulpen?	Peu kah na pulpen?
+Apa dia mengenalmu?	Peu jih i turi kah?
+Jangan buat saya kecewa.	Bèk peugöt lôn keucewa.
+Jangan mengecewakan saya.	Bèk kapeu keucewa lôn.
+Jangan mempermainkan saya!	Bèk kapeu meuen lôn.
+Apa kamu merasakannya?	Peu kah meurasa?
+Apa kamu mendengarnya?	Peu kah na ka deungö?
+Apakah kamu melihat Ahmad?	Peukeuh kah na kalön Ahmad?
+Semuanya tertawa.	Mandum khem.
+Bangunlah dari tempat tidur.	Beudöhlah dari teumpat éh.
+Dia bisa dipercaya.	Jih jeut di patéh.
+Dia orangnya pendiam.	Jih ureueng seungap.
+Dia dari Perancis.	Jih dari Perancis.
+Dia pintar.	Jih caröng.
+Dia masih hidup.	Jih mantöng udép.
+Dia masih marah.	Jih mantöng bungeh.
+Dia masih muda.	Jih mantöng muda.
+Dia masih belum di sini.	Jih mantöng golom i  noe.
+Ia akan segera datang.	Jih akan sigra trôh.
+Dia masih belum di sini.	Jih mantöng golom i  noe.
+Kamarnya sangat berantakan.	Kama jih that seumak.
+Bagaimana kalau minuman?	Kiban menye minuman?
+Bagaimana kabar Kamu?	Kiban haba Droeneuh?
+Saya akui saya salah.	Lôn akui lôn salah.
+Saya kecewa.	Lôn keucewa.
+Saya bukan dokter.	Lôn kön dokter
+Saya menghargai ini.	Lôn hargai nyoe.
+Saya tidak bisa mempercayai dia.	Lôn hana jeut meupatéh jih.
+Saya tidak bisa membantumu.	Lôn hana jeut meubantu kah.
+Saya tidak menyalahkanmu.	Lôn hana peusalah kah.
+Saya tidak suka telur.	Lôn hana galak bôh manok.
+Saya tidak mempercayaimu.	Lôn hana meupatéh kah.
+Saya tidak percaya padamu.	Lôn hana patéh keu kah.
+Saya merasa baik hari ini.	Lôn meurasa göt uroe nyoe.
+Saya sakit kepala.	Lôn saket ulee.
+Saya suka toko ini.	Lôn galak toko nyoe.
+Dulu saya suka film ini.	Jameun lôn galak film nyoe.
+Saya bertemu Ahmad malam ini.	Lôn meureumpök Ahmad malam nyoe.
+Saya membutuhkan uang.	Lôn perle pèng.
+Saya perlu kertas.	Lôn perle keurtah.
+Barusan saya melihat Ahmad.	Satnyoe lôn kalön Ahmad.
+Saya ingin kertas.	Lôn perle keurtah.
+Saya ingin bertemu dengannya.	Lôn hawa meureumpök ngön jih.
+Saya cuma bercanda.	Lôn cuma meuseunda.
+Saya cuma bercanda.	Lôn cuma meuseunda.
+Saya sangat lapar.	Lôn that deuek.
+Saya ada di dalam mobil.	Lôn na di dalam moto.
+Saya akan mengembalikannya.	Lôn akan pulang.
+Saya akan mengirimnya kembali. Lôn akan kirem balek.	
+Saya adalah manusia.	Lôn adalah manusia.
+Saya seorang akuntan.	Lôn sidroe akuntan.
+Saya benar-benar capek.	Lôn butoi-butoi hèk.
+Saya merasa capek.	Lôn merasa hèk.
+Saya bukan pelajar.	Lôn kön pelajar.
+Saya bukan siswa.	Lôn kön siswa.
+Saya bukan siswa.	Lôn kön siswa.
+Saya sangat lapar.	Lôn that deuek.
+Saya harus belajar.	Lôn harus belajar.
+Apakah Ahmad masih sakit?	Peukeuh ahmad mantöng saket?
+Itu penting?	Nyan peunteng?
+Tidak masalah.	Hana masalah.
+Ini tidak fakultatif.	Nyoe hana fakultatif.
+Ini semua salah saya.	Nyan mandum salah lôn.
+Ini rahasia.	Nyoe rahasia
+Itu bukan salah saya.	Nyan kön salah lôn.
+Itu sangat aneh.	Nyan that aneh.
+Sudah dimulai sekarang.	Nyoe i mulai inoe.
+Tinggalkan saya sendiri!	Kubah lôn sidroe!
+Mari kita melakukannya lagi.	Yak tanyoe peubuet lom.
+Mari kita melakukannya sekarang.	Yak tanyoe peubuet inoe.
+Mari kita tidur.	Yak tanyoe éh.
+Mari kita pergi tidur.	Yak tanyoe jak éh.
+Mari kita coba lihat.	Yak tanyoe cuba kalön.
+Mari kita coba lihat.	Yak tanyoe cuba kalön.
+Bolehkah saya istirahat?	Jeut lôn piyoh?
+Tas saya dicuri.	Taih lôn i cue.
+Hobi saya musik.	Hobi lôn musik.
+Rumah saya kotor.	Rumôh lôn kuto.
+Ibu saya baik-baik saja.	Mak lôn göt-göt mantöng.
+Tidak ada orang yang sempurna.	Hana ureueng yang sempurna.
+Tidak ada orang yang sempurna.	Hana ureueng yang sempurna.
+Tolong belok kanan.	Tulông wét u neun.
+Dia agresif.	Jih agresif.
+Ceritakan pada saya.	Calitra bak lôn.
+Katakan pada saya yang sebenarnya.	Peugah bak lôn yang sebutoi jih.
+Rumah itu besar.	Rumôh nyan rayék
+Itu tidak cukup.	Nyan hana sep.
+Itu dulunya rumah kami.	Nyan jameun rumôh kamoe.
+Itu dulunya rumah kita.	Nyan jameun rumôh tanyoe.
+Itu tidak akan terjadi.	Nyan hana akan terjadi.
+Itu kakak saya.	Nyan kakak lôn.
+Itu adik saya.	Nyan adek lôn.
+Itu tidak cukup.	Nyan hana sep.
+Keretanya di sini.	Honda joh i noe.
+Mereka ini adalah anak-anak laki-laki saya.	Awak nyan nyoe adalah aneuk-aneuk agam lôn.
+Mereka akan mencobanya lagi.	Awak nyan akan cuba lom.
+Ini adik saya.	Nyoe adek lôn.
+Ini sangat keren.	Nyoe that keren.
+Ini bukan lelucon.	Nyoe ken lelucon.
+Ini tidak cukup.	Nyoe hana sep.
+Hari ini hari Kamis.	Uroe nyoe uroe kameh.
+Ahmad melanggar hukum.	Ahmad melanggar hukom.
+Ahmad memberi saya sebuah pena.	Ahmad bri keu lôn saboh pena.
+Ahmad selalu dalam keadaan baik.	Ahmad sabe dalam keadaan göt.
+Ahmad punya tangan yang besar.	Ahmad na jaroe yang rayék.
+Ahmad telah kehilangan harapan.	Ahmad ka gadöh harapan.
+Ahmad agak pucat.	Ahmad agak pucat.
+Ahmad itu kutu buku.	Ahmad nyan gute buku.
+Ahmad adalah pria yang baik.	Ahmad nyan aneuk agam yang göt.
+Ahmad adalah pria yang baik.	Ahmad nyan aneuk agam yang göt.
+Ahmad sedang bersenang-senang.	Ahmad tingöh meuseunang-seunang.
+Ahmad sedang berada di dalam mobil.	Ahmad tingöh na lam moto.
+Ahmad tidak terkenal.	Ahmad hana terkenal.
+Ahmad lumayan bagus.	Ahmad lumanyan göt.
+Ahmad adalah seorang penganggur.	Ahmad adalah sidroe pengangguran.
+Ahmad sangat lucu.	Ahmad that lucu.
+Ahmad tidak haus.	Ahmad hana grah.
+Ahmad terlihat syok.	Ahmad deuh syok.
+Ahmad merindukan Boston.	Ahmad rindu keu Boston.
+Ahmad sepertinya syok.	Ahmad deuh syok.
+Ahmad sepertinya terkejut.	Ahmad sang teukijét.
+Ahmad mengatur meja.	Ahmad atô meja.
+Ahmad memejamkan mata.	Ahmad pet mata.
+Ahmad berjajar dalam barisan.	Ahmad meujajar lam baresan.
+Ahmad coba membantu.	Ahmad cuba tulông.
+Ahmad dulunya merokok.	Ahmad jameun meurukok.
+Ahmad beruntung.	Ahmad beuruntông
+Ahmad, kamu gak apa-apa?	Ahmad, kah hana peu-peu?
+Besok hari gajian.	Singöh uroe gajian.
+Belok ke kanan.	Wét u neun.
+Kami bangun saat subuh.	Kamoe beudöh watee suboh.
+Kami telah mencoba yang terbaik.	Kamoe kaleuh meucuba yang paleng get.
+Kami sedang membantu Ahmad.	Kamoe tingöh meubantu Ahmad.
+Kami mencoba.	Kamoe cuba.
+Apa yang kamu buat?	Peu yang kah peugöt?
+Kamu bikin apa?	Kah peugöt peu?
+Apa yang mereka tahu?	Peu yang awaknyan teupeu?
+Berapa harganya?	Padup yum jih?
+Kalian dapat apa?	Awakkah meureumpök peu?
+Berapa harganya?	Padup yum jih?
+Siapa nama Kamu?	Soe nan kah?
+Siapa namamu?	Soe nan kah?
+Ada apa?	Peu na?
+Ada masalah apa?	Na masalah peu?
+Ada masalah?	Na masalah?
+Jurusanmu apa?	Jurusan kah peu?
+Berapa nilaimu?	Padup nilai kah?
+Kapan Ahmad menelepon?	Pajan Ahmad telepon?
+Kemana mereka pergi?	Ho awaknyan jak?
+Dimana jam saya?	Pat jeum lôn?
+Dimana pintu keluarnya?	Pat pintô tubiet?
+Dimana Ahmad hari ini?	Pat Ahmad uroe nyoe?
+Mana jasmu?	Pat jas kah?
+Dari mana kamu?	Dari pat kah?
+Mobil siapa ini?	Moto soe nyoe?
+Kenapa kamu melakukannya?	Pakön kah peubuet nyan?
+Kenapa tidak dicoba?	Pakön hana i cuba?
+Kenapa saya harus keluar?	Pakön lôn harus tubiet?
+Mengapa saya harus menunggu?	Pakön lôn harus preh?
+Kamu tidak memerlukannya.	Kah perle nyan.
+Kamu membuat saya bahagia.	Kah peugöt lôn bahgia.
+Kamu agresif.	Kah agresif.
+Siapapun bisa melakukan itu.	Beurangkasoe jeut peubuet nyan.
+Apa kamu sedang terburu-buru?	Peu kah tingöh meukarat?
+Apa kamu bercanda?	Peu kah meuseunda?
+Apa kamu sudah cukup yakin?	Peu kah ka sep yakin?
+Apa kamu yakin dengan hal itu?	Peu kah yakin ngön hai nyan?
+Bolehkah saya meminjam itu?	Jeut lôn pinjam nyan?
+Bisakah diperbaiki?	Jeut depeugöt?
+Apakah kamu tidur nyenyak?	Peukeuh kah éh nyenyak?
+Apa kamu merasa bersalah?	Peu kah meurasa salah?
+Apa Kamu merasa bersalah?	Peu kah meurasa salah?
+Apakah kamu merasa bersalah?	Peukeuh kah meurasa meusalah?
+Apakah Kamu merasa bersalah?	Peukeuh kah meurasa meusalah?
+Apa kamu suka semuanya?	Peu kah galak mandum nyan?
+Apa kamu butuh bantuan?	Peu kah perle bantuan?
+Apa kamu mengingat kami?	Peu kah tingat kamoe?
+Apakah Ahmad bekerja di sini?	Peukeuh Ahmad kereuja i noe?
+Apakah ini sangat sakit?	Peukeuh nyoe that saket?
+Jangan berikan itu pada saya!	Bèk bri nyan keu lôn!
+Jangan sebut namanya.	Bèk hey nan jih.
+Jangan melempar batu.	Bèk rhom batè.
+Jangan sentuh mobil saya.	Bèk mat moto lôn.
+Berikan uangmu.	Bri pèng kah.
+Pergi dan sikat rambutmu.	Jak ngön ikat ôk kah.
+Apakah kita pernah bertemu sebelumnya?	Peukeuh tanyoe tom meureumpök sigolom jih?
+Apa kita pernah bertemu sebelumnya?	Peu tanyoe tom meureumpök sigolom jih?
+Dia tidak suka dengan kita.	Jih hana galak ngön tanyoe.
+Dia belum datang.	Jih golom trôh.
+Dia bekerja di sebuah bank.	Jih i keureuja bak saboh bank.
+Halo, apa kabar?	Halo, peu haba?
+Halo, bagaimana kabarmu?	Halo, kiban haba kah?
+Hai, bagaimana kabarmu?	Hai, kiban haba kah?
+Tunggu sebentar.	Prèh siat.
+Ada yang bisa saya bantu?	Na yang jeut lôn bantu?
+Bagaimana kamu bisa mendapatkannya?	Kiban kah jeut meureumpök nyan?
+Bagaimana kabar keluargamu?	Kiban haba keluarga kah?
+Bagaimana keadaan saudaramu?	Kiban keadaan saudara kah?
+Saya sepenuhnya setuju.	Lôn sepunoh jih seutuju.
+Saya bukan pelajar.	Lôn kön pelajar.
+Saya bukan siswa.	Lôn kön siswa.
+Saya bukan siswa.	Lôn kön siswa.
+Saya turut berduka.	Lôn turit berduka.
+Saya tidak bisa hidup seorang diri.	Lôn hana jeut udép sidroe.
+Saya tidak dapat tidur nyenyak.	Lôn hana meureumpök éh nyenyak.
+Saya sepenuhnya setuju.	Lôn sepunoh jih seutuju.
+Saya melakukannya seperti ini.	Lôn peubuet nyan lage nyoe.
+Saya tidak tahu tentang hal ini.	Lôn hana teupeu tentang hai nyoe.
+Saya tidak memiliki mobil.	Lôn hana moto.
+Saya tak tahu di mana.	Lôn hana teupeu pat.
+Saya harus pulang.	Lôn harus woe.
+Saya harap kamu menyukainya.	Lôn harap kah galak.
+Saya tahu apa yang saya rasakan.	Lôn teupeu peu yang lôn rasa.
+Saya tahu apa yang saya rasakan.	Lôn teupeu peu yang lôn rasa.
+Saya tahu ayahmu.	Lôn teupeu ayah kah.
+Saya butuh informasi.	Lôn butuh informasi.
+Saya berenang seminggu sekali.	Lôn meulangoe siminggu sigö.
+Saya menyuruh Ahmad untuk berhenti.	Lôn yue Ahmad untuk döng.
+Saya ingin sepatu merah.	Lôn hawa sipatu mirah.
+Saya sangat lapar.	Lôn that deuek.
+Saya harap saya kaya.	Lôn harap lôn kaya.
+Saya akan menemanimu.	Lôn akan peungön kah.
+Saya akan ikut denganmu.	Lôn akan ikot ngön kah.
+Saya dari Singapura.	Lôn dari Singapura.
+Saya mulai lapar.	Lôn ka deuek.
+Tunggu sebentar.	Prèh siat.
+Tinggalkan saya sendiri sekarang.	Kubah lôn sidroe inoe.
+Kesalahan bisa terjadi.	Kesalahan jeut terjadi.
+Kaki saya masih sakit.	Gaki lôn saket.
+Silakan duduk.	Silahkan duek.
+Silakan duduk.	Silahkan duek.
+Dia terlihat bersemangat.	Jih deuh meuseumangat.
+Dia nampak bingung.	Jih deuh  bingong.
+Ia terlihat tidak asing.	Jih deuh hana aseng.
+Ia akan segera datang.	Jih akan sigra trôh.
+Sayang sekali.	Sayang that.
+Kuncinya rusak.	Kunci jih reulöh.
+Mereka semua sedang sibuk.	Awak nyan mandum tingöh sibok.
+Ini bukan lelucon.	Nyoe ken lelucon.
+Ini tidak cukup.	Nyoe hana sep.
+Ahmad pingsan.	Ahmad pansan.
+Ahmad sedang di rumah sekarang.	Ahmad tingöh di rumôh inoe.
+Ahmad pasti tertidur.	Ahmad pasti ka di éh.
+Ahmad seharusnya ada di sini.	Ahmad seharusjih na i noe.
+Uang kami habis.	Pèng kamoe abeh.
+Apa yang terjadi di sini?	Peu yang terjadi i noe?
+Dia pergi ke mana?	Jih i jak ho?
+Di mana kita akan bertemu.	Pat tanyoe akan meureumpök.
+Kamu mau ke mana?	Kah ho jak?
+Mau ke mana?	Neu jak ho?
+Berharap kamu di sini.	Berharap kah i noe.
+Kamu bisa belajar di sini.	Kah jeut beulajar i noe.
+Siapapun bisa melakukan ini.	Beurangkasoe jeut peubuet nyan.
+Apakah kamu suka bowling?	Peukeuh kah galak bowling?
+Apakah kamu tidak merasa dingin.	Peukeuh kah hana merasa sijuek?
+Dia memberi saya garam.	Jih di bri lôn sira.
+Dia kaya dengan cepat.	Jih kaya deungön bagah.
+Dia punya otak yang cerdas.	Jih na utak yang caröng.
+Dia pergi ke toko.	Jih i jak u toko.
+Saya kekurangan uang.	Lôn kureung pèng.
+Saya percaya akan adanya hantu.	Lôn patéh akan na hantu.
+Saya tidak mempercayaimu.	Lôn hana meupatéh kah.
+Saya tidak percaya padamu.	Lôn hana patéh keu kah.
+Kemarin saya bertemu dia.	Baroe lôn meureumpök jih.
+Saya ingin bertemu dengannya.	Lôn hawa meureumpök ngön jih.
+Apakah jauh dari sini?	Peukeuh jioh that dari inoe?
+Mari kita mencobanya.	Yak tanyoe cuba nyan.
+Senang bertemu denganmu.	Seunang meureumpök ngön kah.
+Dia punya 2.000 buku.	Jih na 2.000 buku.
+Dia masih belum datang.	Jih mantöng golom trôh.
+Dia masih belum di sini.	Jih mantöng golom i noe.
+Dia masih di bawah umur.	jih mantöng di yup umu.
+Silakan duduk.	Silahkan duek.
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Itu cukup.	Nyan kasep.
+Mereka masih muda.	Awak nyan mantöng muda.
+Ahmad kelihatannya terkejut.	Ahmad bak deuh teukijét.
+Ahmad membelikan saya bunga mawar.	Ahmad i bloe keu lôn bungong mawar.
+Ahmad datang kemari sendirian.	Ahmad trôh keunoe sidroe.
+Ahmad memejamkan mata.	Ahmad di pet mata.
+Ahmad tidak mengetahui saya.	Ahmad hana i teupeu lôn.
+Ahmad mencarikan saya sebuah taksi.	Ahmad i mita saboh taksi.
+Ahmad sudah berbohong padamu.	Ahmad ka i peungeut kah.
+Ahmad adalah paman Nisa.	Ahmad adalah paman Nisa.
+Ahmad adalah seorang politikus.	Ahmad adalah sidroe politikus.
+Ahmad terlalu serius.	Ahmad that serius.
+Ahmad ada di dalam rumah.	Ahmad na di dalam rumôh.
+Ahmad masih menangis.	Ahmad mantöng i moe.
+Ahmad membutuhkan pelatihan.	Ahmad perle pelatihan.
+Ahmad bilang ia akan datang.	Ahmad peugah jih akan i jak.
+Ahmad mulai bernyanyi.	Ahmad mulai meulagu.
+Ahmad pulang ke rumah sendirian.	Ahmad woe u rumôh sidroe
+Mata Ahmad biru.	Mata Ahmad biru.
+Ahmad matanya biru.	Ahmad mata jih biru.
+Kami dapat mempercayai Ahmad.	Kamoe jeut meupatéh Ahmad.
+Kami sedang makan apel.	Kamoe tingöh pajôh apel.
+Apakah mereka telah yakin?	Peukeuh awaknyan ka yakin?
+Apa yang sedang kamu makan?	Peu yang tingöh kah pajôh?
+Apa yang dia cari?	Peu yang jih mita?
+Di atas meja ada apa?	Di ateu meja na peu?
+Saya harus bawa apa?	Lôn harus ba peu?
+Bagaimana hasilnya?	Kiban hasil jih?
+Sedang apa kamu tadi?	Tingöh peu kah bunoe?
+Apa masalahmu?	Peu masalah kah?
+Kapan kamu bangun?	Pajan kah beudöh?
+Kapan kamu akan pergi?	Pajan kah ka jak?
+Kamu kapan akan pergi?	Pajan kah ka jak?
+Kapan kamu berangkat?	Pajan kah ka beurangkat?
+Kamu menuju ke mana?	Kah menuju ho?
+Kamu mau pergi ke mana?	Kah neu jak ho?
+Kamu mau ke mana?	Kah neu jak ho?
+Mau ke mana?	Neu jak ho?
+Dari mana kamu?	Dari pat kah?
+Kamu dari mana saja?	Kah dari pat mantöng?
+Ke mana saja kamu?	Ho mantöng kah?
+Dari mana saja Kamu?	Dari pat mantöng kah?
+Ke mana kamu pergi?	Ho kah jak?
+Ada di mana bandaranya?	Na di pat bandara jih?
+Stasiunnya di mana?	Stasiun jih pat?
+Mana jaketmu?	Pat jaket kah?
+Siapa gurumu?	Soe guru kah?
+Kenapa kamu menyerah?	Pakön kah menyerah?
+Kenapa kamu tidak datang?	Pakön kah hana kajak?
+Mengapa kamu mengatakan itu?	Pakön kah kapeugah nyan?
+Kamu koki yang terampil.	Kah koki yang teurampil.
+Kamu bisa mengandalkannya.	Kah jeut ta andalkan.
+Kamu mengecewakan saya.	Kah kapeu keucewa lôn.
+Kamu tidak memerlukan itu.	Kah hana peurle nyan.
+Kamu tidak memerlukan ini.	Kah hana peurle nyan.
+Sebaiknya kamu tidak pergi.	Lubeh göt kah hana jak.
+Sepatumu ada di sini.	Sipatu kah na i noe.
+Apakah tanganmu sudah bersih?	Peukeuh jaroe kah ka gleh?
+Apakah Kamu bisa berbahasa Prancis?	Peukeuh kah jeut bahasa Prancis?
+Apakah Kamu memiliki peliharaan?	Peukeuh kah na peliharaan?
+Dia mulai merasa sakit.	Jih mulai meurasa saket.
+Dia tidak takut pada kematian.	Jih hana yee keu mate.
+Dia mudah marah.	Jih bagah bungeh.
+Dia mudah bosan.	Jih bagah bosan.
+Dia tidak ada di sini, kan?	Jih hana i noe, ken?
+Dia ingin berhasil.	Jih hawa berhasil.
+Ia pergi berburu rusa.	Jih i jak mita berburu rusa.
+Dia sedang memakan buah apel.	Jih tingöh i pajôh boh apel.
+Dia ada di bawah kursi.	Jih na di yup kursi.
+Saya sedang makan buah apel.	Lôn tingöh pajôh boh apel.
+Saya sangat lapar.	Lôn that deuek.
+Saya bertemu Nisa kemarin.	Lôn meureumpök Nisa Baroe.
+Senang bertemu denganmu.	Seunang meureumpök ngön kah.
+Apakah ini sepedamu?	Peukeuh nyoe sitangèn kah?
+Biarkan saya melihatnya.	Bah lôn kalön.
+Mari kita mencobanya.	Yak tanyoe cuba nyan.
+Apakah saya boleh menggunakan ponsel Kamu?	Peukeuh lôn jeut pakek ponsel kah?
+Dia mempunyai sepuluh anak.	Jih na siploh aneuk.
+Dia suka terlambat.	Jih galak teulat.
+Mereka tinggal di sebuah rumah.	Awak nyan tinggai bak saboh rumoh.
+Mereka semua bersalah.	Awak nyan mandum salah.
+Mereka akan aman di sini.	Awak nyan akan aman inoe.
+Ini tidak cukup.	Nyoe hana sep.
+Ahmad tidak mempercayai kita.	Ahmad hana dipatéh tanyoe.
+Ahmad akhirnya bertemu dengan Nisa.	Ahmad akhe jih meureumpök ngön Nisa.
+Ahmad punya sopan santun.	Ahmad na sopan santon.
+Ahmad menyetrika bajunya.	Ahmad i gosok bajee.
+Ahmad adalah orang yang baik.	Ahmad adalah ureueng yang göt.
+Ahmad adalah pekerja yang baik.	Ahmad adalah peukeurja yang göt.
+Ahmad adalah orang yang baik.	Ahmad adalah ureueng yang göt.
+Ahmad adalah seorang yang teliti.	Ahmad adalah sidroe ureueng yang teuliti.
+Ahmad lebih tua ketimbang saya.	Ahmad lubeh tuha dari lôn.
+Ahmad masih berada di luar.	Ahmad mantöng na di lua.
+Ahmad memberitahu saya tentang hal itu.	Ahmad di peugah bak lôn tentang hai nyan.
+Ahmad dulu bahagia.	Ahmad jameun bahgia.
+Ahmad sangat baik dalam hal itu.	Ahmad that göt lam hai nyan.
+Kura-kura adalah reptil.	Kura-kura nyan adalah reptil.
+Kami bertemu di tengah perjalanan.	Kamoe meureumpök bak tingöh perjalanan.
+Kita akan bertarung.	Tanyoe akan meutarông.
+Apa kamu mabuk?	Peu kah mabôk?
+Mereka ini siapa?	Awak nyan nyoe soe?
+Kenapa kamu bekerja di sini?	Pakön kah keureuja i noe?
+Apakah mereka semua sama?	Peukeuh awaknyan mandum sama?
+Apa kamu serius?	Peu kah serius?
+Apakah kamu punya sepeda?	Peukeuh kah na sitangèn?
+Apakah kamu punya sepeda?	Peukeuh kah na sitangèn?
+Apakah kamu menyukai kejutan?	Peukeuh kah galak kejutan?
+Apakah Ahmad suka berenang?	Peukeuh kah galak meulangoe?
+Apakah Ahmad mengatakan sesuatu?	Peukeuh Ahmad i peugah sesuatu?
+Dia punya banyak uang.	Jih na lé pèng.
+Dia punya banyak uang.	Jih na lé pèng.
+Dia punya selera seni yang tinggi.	Jih na seulera seni yang lambong.
+Dia telah berangkat ke London.	Jih ka i berangkat u London.
+Dia hidup dengan bahagia.	Jih udép ngön bahgia.
+Dia sering bermain gitar.	Jih sereng meuen gitar.
+Dia kakak saya.	Jih kakak lôn.
+Dia sangat pintar.	Jih that caröng.
+Halo, bagaimana bisnismu?	Halo, kiban bisnis kah?
+Hai. Bagaimana kabarmu?	Hai. Kiban haba kah?
+Ayahnya memanggilnya Ahmad.	Ayah jih hey jih Ahmad.
+Senang bertemu denganmu.	Seunang meureumpök ngön kah.
+Saya tidak suka telur.	Lôn hana galak bôh manok.
+Saya pergi tidur sekitar jam 10.	Lôn jak éh sekitar poh 10.
+Saya punya beberapa buah teori.	Lôn na meu padup boh teori.
+Saya harus pergi tidur.	Lôn harus jak éh.
+Saya tidak sengaja bertemu dengannya.	Lôn hana sengaja meureumpök ngön jih.
+Saya butuh perangko.	Lôn perlè perangko.
+Saya akan mengambil beberapa gelas.	Lôn akan cok meu padup boh glah.
+Saya di sini sebagai seorang turis.	Lôn i noe sebagoe turis.
+Apakah semuanya oke di sini?	Peukeuh mandum oke i noe?
+Apakah jam itu bekerja?	Peukeuh jeum nyan keureuja?
+Apakah ada perbedaan?	Peukeuh na beda?
+Apakah ini sebuah kebetulan?	Peukeuh nyoe saboh kebetulan?
+Apakah rumahmu jauh?	Peukeuh rumôh kah jioh?
+Mari kita mencobanya.	Yak tanyoe cuba nyan.
+Mari kita mencobanya.	Yak tanyoe cuba nyan.
+Silakan duduk.	Silahkan duek.
+Dia delapan tahun.	Jih lapan thôn.
+Itu bukan masalah saya.	Nyan kön masalah lôn.
+Itu cukup.	Nyan kasep.
+Itu bukan urusan saya.	Nyan kön urusan lôn.
+Itu bukan masalah saya.	Nyan kön masalah lôn.
+Bima Sakti besar.	Bima Sakti rayék.
+Kuenya terlalu manis.	Kueh nyan that mameh.
+Uang telah menghilang.	Pèng ka gadöh.
+Mereka ini adalah anak-anak saya.	Awak nyan nyoe adalah aneuk-aneuk lôn.
+Mereka sedang memakan apel.	Awak nyan tingöh pajôh apel.
+ini harus dicuci.	nyoe harus i rah.
+Ahmad dan Nisa putus.	Ahmad ngön Nisa putôh.
+Ahmad tidak bisa bermain tenis.	Ahmad hana jeut di meuen tenis.
+Ahmad melakukan apa yang saya katakan.	Ahmad i peubuet peu yang lôn peugah.
+Ahmad tidak suka daging sapi.	Ahmad hana galak sie lumo.
+Ahmad mempunyai istri yang cantik.	Ahmad na inöng yang lagak.
+Ahmad sakit perut.	Ahmad saket pruet.
+Ahmad telah dikeluarkan.	Ahmad ka di peutubiet.
+Ahmad telah diracuni.	Ahmad ka di racon.
+Ahmad selalu sehat.	Ahmad sabe sehat.
+Ahmad sedang membaca buku.	Ahmad tingöh dibaca buku.
+Ahmad bukanlah penghianat.	Ahmad kön penghianat.
+Ahmad merindukan keluarganya.	Ahmad rindu keu keluarga jih.
+Ahmad berbicara untuk Nisa.	Ahmad peugah haba keu Nisa.
+Ahmad sangat tekun belajar.	Ahmad that tekun beulajar.
+Ahmad sudah cukup membantu.	Ahmad ka sep meubantu.
+Ahmad tidak akan duduk.	Ahmad hana akan i duek.
+Tangan Ahmad besar.	Jaroe Ahmad rayék.
+Kalian punya apa?	Awakkah na peu?
+Sebaiknya kamu cepat-cepat.	Lubeh göt kah bagah-bagah.
+Sebaiknya kamu duduk di sini.	Lubeh göt kah duek i noe.
+Apakah kamu menyukai kaus oblong saya?	Peukeuh kah galak kaos oblong lôn.
+Dia akan duduk di sini.	Jih akan duek i noe.
+Saya tidak punya sepeda.	Lôn hana sitangèn.
+Saya sepenuhnya setuju.	Lôn sepunoh jih seutuju.
+Saya ingin sekali bertemu denganmu.	Lôn hawa sigö meureumpök ngön kah.
+Saya akan membutuhkan bantuan.	Lôn akan perlè bantuan.
+Saya tidak sedang bercanda.	Lôn hana tingeh meuseunda.
+Apakah ini gambar yang tadi?	Peukeuh nyoe gamba yang bunoe?
+Terima kasih banyak.	Teurimeng geunaseh banyak.
+Terima kasih telah membantu Ahmad.	Teurimeng geunaseh kaleuh neubantu Ahmad.
+Mereka tidak percaya pada saya.	Awak nyan hana peucaya keu lôn.
+Mereka baru saja sampai.	Awak nyan barô mantöng trôh.
+Mereka pergi ke pantai.	Awak nyan jak u pante.
+Makanan ini terlalu asin.	Makanan nyan brat masen.
+Ini adalah sebuah hukum kuno.	Nyoe adalah sebuah hukom kuno.
+Ini bukan kalimat.	Nyoe kön kalimat.
+Ini bukan masalah saya.	Nyoe kön masalah lôn.
+Ini yang terakhir!	Nyoe yang terakhe!
+Ini yang terakhir.	Nyoe yang terakhe.
+Ini sangat membingungkan.	Nyoe that membingongkan.
+Ruangan ini sangat hangat.	Ruangan nyoe tah meuhai.
+Hari ini sangat panas.	Uroe nyoe that suum.
+Hari ini ulang tahun Ahmad.	Uroe nyoe ulang tahun Ahmad.
+Ahmad bisa menggantikan Nisa.	Ahmad jeut gantoe Nisa.
+Ahmad tidak punya mobil.	Ahmad hana moto.
+Ahmad memimpikan kamu.	Ahmad meuleumpoe kah.
+Ahmad menyiram toilet.	Ahmad siram toilet.
+Ahmad keluar dari mobilnya.	Ahmad tubiet dari moto jih.
+Ahmad keluar dari mobil.	Ahmad tubiet dari moto.
+Ahmad belum sampai.	Ahmad golom trôh.
+Ahmad adalah seorang kawan saya.	Ahmad adalah sidroe ngön lôn.
+Ahmad adalah pegawai yang baik.	Ahmad adalah pegawai yang göt.
+Ahmad sedang berduaan dengan Nisa.	Ahmad tingöh dua ngön Nisa.
+Ahmad mulai cemburu.	Ahmad mulai cemburu.
+Ahmad pandai dalam hal memasak.	Ahmad caröng dalam hai maguen.
+Ahmad sedang mencarimu.	Ahmad tingöh mita kah.
+Ahmad tidak bisa berenang.	Ahmad han jeut meulangoe.
+Ahmad tampak seperti diri saya.	Ahmad deuh lage lôn.
+Ahmad sungguh merindukan Nisa.	Ahmad that rindu keu Nisa.
+Ahmad berkata bahwa dia tidak akan tinggal.	Ahmad peugah bahwa jih hana akan tinggai.
+Ahmad berkata dia tidak bersalah.	Ahmad peugah jih salah.
+Ahmad meletakkan sendoknya.	Ahmad peuduek sendok jih.
+Ahmad tinggal selama beberapa waktu.	Ahmad tinggai meu padup uroe.
+Ahmad sedikit mabuk.	Ahmad bacut mabôk.
+Ahmad sangat terkejut.	Ahmad that teukijét.
+Kenapa kamu bekerja di sini?	Pakön kah keureuja i noe?
+Mereka ini siapa?	Awak nyan nyoe soe?
+Apakah mereka semua sama?	Peukeuh awaknyan mandum sama?
+Dia punya selera seni yang tinggi.	Jih na seulera seni yang lambong.
+Dia telah berangkat ke London.	Jih ka i berangkat u London.
+Dia punya banyak uang.	Jih na lé pèng.
+Dia punya banyak uang.	Jih na lé pèng.
+Dia hidup dengan bahagia.	Jih udép ngön bahgia.
+Dia sering bermain gitar.	Jih sereng meuen gitar.
+Dia kakak saya.	Jih kakak lôn.
+Dia sangat pintar.	Jih that caröng.
+Ahmad dulu bahagia.	Ahmad jameun bahgia.
+Ahmad sangat baik dalam hal itu.	Ahmad that göt lam hai nyan.
+Ahmad masih berada di luar.	Ahmad mantöng na di lua.
+Ahmad memberitahu saya tentang hal itu.	Ahmad di peugah bak lôn tentang hai nyan.
+Ahmad adalah seorang yang teliti.	Ahmad adalah sidroe ureueng yang teuliti.
+Ahmad lebih tua ketimbang saya.	Ahmad lubeh tuha dari lôn.
+Ahmad adalah pekerja yang baik.	Ahmad adalah peukeurja yang göt.
+Ahmad adalah orang yang baik.	Ahmad adalah ureueng yang göt.
+Ahmad menyetrika bajunya.	Ahmad i gosok bajee.
+Ahmad adalah orang yang baik.	Ahmad adalah ureueng yang göt.
+Ahmad tidak mempercayai kita.	Ahmad hana dipatéh tanyoe.
+Ahmad akhirnya bertemu dengan Nisa.	Ahmad akhe jih meureumpök ngön Nisa.
+Ahmad punya sopan santun.	Ahmad na sopan santon.
+Kamu tidak memerlukan itu.	Kah hana peurle nyan.
+Kamu tidak memerlukan ini.	Kah hana peurle nyan.
+Kamu bisa mengandalkannya.	Kah jeut ta andalkan.
+Kamu mengecewakan saya.	Kah kapeu keucewa lôn.
+Mengapa kamu mengatakan itu?	Pakön kah kapeugah nyan?
+Kamu koki yang terampil.	Kah koki yang teurampil.
+Kenapa kamu menyerah?	Pakön kah menyerah?
+Kenapa kamu tidak datang?	Pakön kah hana kajak?
+Mana jaketmu?	Pat jaket kah?
+Siapa gurumu?	Soe guru kah?
+Ada di mana bandaranya?	Na di pat bandara jih?
+Stasiunnya di mana?	Stasiun jih pat?
+Ke mana saja kamu?	Ho mantöng kah?
+Dari mana saja Kamu?	Dari pat mantöng kah?
+Ke mana kamu pergi?	Ho kah jak?
+Mau ke mana?	Neu jak ho?
+Dari mana kamu?	Dari pat kah?
+Kamu dari mana saja?	Kah dari pat mantöng?
+Kamu menuju ke mana?	Kah menuju ho?
+Kamu mau pergi ke mana?	Kah neu jak ho?
+Kamu mau ke mana?	Kah neu jak ho?
+Kapan kamu akan pergi?	Pajan kah ka jak?
+Kamu kapan akan pergi?	Pajan kah ka jak?
+Kapan kamu berangkat?	Pajan kah ka beurangkat?
+Kapan kamu bangun?	Pajan kah beudöh?
+Bagaimana hasilnya?	Kiban hasil jih?
+Sedang apa kamu tadi?	Tingöh peu kah bunoe?
+Apa masalahmu?	Peu masalah kah?
+Di atas meja ada apa?	Di ateu meja na peu?
+Saya harus bawa apa?	Lôn harus ba peu?
+Apakah mereka telah yakin?	Peukeuh awaknyan ka yakin?
+Apa yang sedang kamu makan?	Peu yang tingöh kah pajôh?
+Apa yang dia cari?	Peu yang jih mita?
+Kami dapat mempercayai Ahmad.	Kamoe jeut meupatéh Ahmad.
+Kami sedang makan apel.	Kamoe tingöh pajôh apel.
+Saya sangat lapar.	Lôn that deuek.
+Saya harus belajar.	Lôn harus belajar.
+Saya bukan pelajar.	Lôn kön pelajar.
+Saya bukan siswa.	Lôn kön siswa.
+Saya bukan siswa.	Lôn kön siswa.
+Saya seorang akuntan.	Lôn sidroe akuntan.
+Saya benar-benar capek.	Lôn butoi-butoi hèk.
+Saya merasa capek.	Lôn merasa hèk.
+Saya akan mengembalikannya.	Lôn akan pulang.
+Saya akan mengirimnya kembali.	Lôn akan kirem balek.
+Saya adalah manusia.	Lôn adalah manusia.
+Saya cuma bercanda.	Lôn cuma meuseunda.
+Saya sangat lapar.	Lôn that deuek.
+Saya ada di dalam mobil.	Lôn na di dalam moto.
